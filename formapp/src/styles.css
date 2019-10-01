@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: #ffffff;
+}
+form {
+    position: relative;
+    top: 60px;
+}
+hr {
+    border-top: 1px solid black;
+    width: 75%;
+    position: relative;
+    top: 80px;
+}
+input#inputAddress {
+    text-align: center;
+    background-color: antiquewhite;
+    font-style: italic;
+    border: solid 1px black;
+}
+
+
+.form-control {
+   
+    width: 400px;
+    display: inline-block;
+}
+
+.all {
+    margin-top: 50px;
+    background-color: #1877F2;
+    width: 550px;
+    height: 440px;
+    display: inline-block;
+    position: relative;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 30px 28px 92px;
+}
+.down {
+    padding: 30px;
+}
+
+button.btn.btn-primary {
+    background-color: black;
+}

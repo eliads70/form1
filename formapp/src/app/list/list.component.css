@@ -1,0 +1,24 @@
+.form-control {
+   
+    width: 400px;
+    display: inline-block;
+}
+body
+{
+    text-align: center;
+}
+.all {
+    background-color: #0998dc;
+    width: 550px;
+    height: 440px;
+    display: inline-block;
+    position: relative;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 30px 28px 92px;
+}
+.down {
+    padding: 30px;
+}
